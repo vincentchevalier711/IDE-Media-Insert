@@ -11,7 +11,7 @@ C:\*\IDE-Media-Insert > npm install
 1. Insert in a same folder your .mp3 files and a .jpg or .png file
 2. Execute in the terminal
 ```sh
-C:\*\IDE-Media-Insert > node index.js -F C:\PATH TO YOUR FILE
+C:\*\IDE-Media-Insert > node index.js -F C:\PATH TO YOUR FOlder
 ```
 
 ## Why this scripts
